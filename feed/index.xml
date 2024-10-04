@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>suzukigarden</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>駅前のお花屋さん。お花一輪から贈り物まで、お気軽にご相談ご来店ください。</description>
+	<lastBuildDate>Mon, 30 Sep 2024 06:13:41 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>お彼岸のお供え花</title>
+		<link>/%e3%81%8a%e5%bd%bc%e5%b2%b8%e3%81%ae%e3%81%8a%e4%be%9b%e3%81%88%e8%8a%b1/</link>
+		
+		<dc:creator><![CDATA[suzuki]]></dc:creator>
+		<pubDate>Fri, 13 Sep 2024 05:23:18 +0000</pubDate>
+				<category><![CDATA[お知らせ]]></category>
+		<guid isPermaLink="false">/?p=35</guid>
+
+					<description><![CDATA[ご先祖様への感謝の気持ちを込めて。お客様のご希望やご予算に合わせてお作りいたします。ご用意しておりますお供え花束もございますので、お気軽にご相談ください。]]></description>
+										<content:encoded><![CDATA[
+<p>ご先祖様への感謝の気持ちを込めて。<br>お客様のご希望やご予算に合わせてお作りいたします。<br>ご用意しておりますお供え花束もございますので、<br>お気軽にご相談ください。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ハロウィーン商品入荷</title>
+		<link>/%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%bc%e3%83%b3%e5%95%86%e5%93%81%e5%85%a5%e8%8d%b7/</link>
+					<comments>/%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%bc%e3%83%b3%e5%95%86%e5%93%81%e5%85%a5%e8%8d%b7/#respond</comments>
+		
+		<dc:creator><![CDATA[suzuki]]></dc:creator>
+		<pubDate>Fri, 13 Sep 2024 05:07:11 +0000</pubDate>
+				<category><![CDATA[新商品]]></category>
+		<guid isPermaLink="false">/?p=31</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%bc%e3%83%b3%e5%95%86%e5%93%81%e5%85%a5%e8%8d%b7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
